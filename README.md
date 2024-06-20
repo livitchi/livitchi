@@ -1,4 +1,4 @@
-```markdown
+
 # Christopher Baboujian • Senior Java Full Stack Developer
 
 As a Senior Java Full Stack Developer, I am passionate about continuously learning and advancing my skills in technology and development. With a background in developing websites and mobile apps, I have grown into a Full Stack Engineer who thrives on working with cutting-edge tools and technologies. I enjoy experimenting with design and development and am eager to share my knowledge with others globally. Like any dedicated developer, I know how to brew an exceptional cup of coffee ☕️!
@@ -14,4 +14,4 @@ As a Senior Java Full Stack Developer, I am passionate about continuously learni
 📩 &nbsp; Feel free to contact me. I am always here for you...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=livitchi&show_icons=true&theme=radical&count_private=true)
-```
+
